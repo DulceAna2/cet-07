@@ -1,0 +1,38 @@
+main {
+    background-color: aqua;
+    width: 100%;
+}
+
+body {
+    width: 80%;
+    background-color: beige;
+    margin: 0 auto;
+}
+
+html {
+    width: 100%;
+    background-color: black;
+}
+
+aside {
+    width: 15%;
+    background-color: blue;
+
+}
+h2, p{
+    margin: 20px;
+}
+header{
+    text-align: center;
+    margin-bottom: 0px;
+margin-top: 0px;
+}
+footer{
+    background-color: blueviolet;
+    width: 100%;
+}
+picture{
+    display: flex;
+    justify-content: center;
+
+}
