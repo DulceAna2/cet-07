@@ -1,28 +1,25 @@
 main {
-    background-color: aqua;
+    background-color: #ff8fa3;
     width: 100%;
 }
 
 body {
     width: 80%;
-    background-color: beige;
+    background-color: #ff4d6d;
     margin: 0 auto;
 }
 
 html {
     width: 100%;
-    background-color: black;
+    background-color: #a4133c;
 }
 
 header{
     text-align: center;
 }
-aside {
-    width: 15%;
-    background-color: blue;
-}
+
 footer{
-    background-color: aquamarine;
+    background-color: #ffb3c1;
 }
 section{
     margin: 20px;
@@ -50,3 +47,11 @@ tr , td {
     text-align: center;
   }
   
+
+  picture{
+    display: flex;
+    justify-content:center;
+  }
+  footer img{
+    width: 80px;
+  }
