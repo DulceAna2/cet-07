@@ -1,11 +1,11 @@
 main {
-    background-color: aqua;
+    background-color: #9A3B3B;
     width: 100%;
 }
 
 body {
     width: 80%;
-    background-color: beige;
+    background-color:#BB2525;
     margin: 0 auto;
 }
 
@@ -75,5 +75,7 @@ footer picture{
 justify-content: center;
 
 }
+
+
 
 
